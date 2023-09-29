@@ -2,8 +2,6 @@
 
 Este es un paquete de ejemplo de despliegue a NPM
 
-## Felipe Mireles Cruz
-
 # Ejemplo
 
 ```

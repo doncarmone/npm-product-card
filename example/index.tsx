@@ -22,6 +22,7 @@ const App = () => {
             <ProductImage />
             <ProductTitle />
             <ProductButtons />
+            {/* Add more Components maybe */}
           </>
         )
       }

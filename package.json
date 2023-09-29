@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-rc",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -74,10 +74,10 @@
     "react-test-renderer": "^18.2.0"
   },
   "repository": {
-    "url": "https://github.com/jcgmcruz/npm-product-card-deploy.git",
+    "url": "https://github.com/doncarmone/npm-product-card",
     "type": "git"
   },
-  "homepage": "https://github.com/jcgmcruz/npm-product-card-deploy.git",
+  "homepage": "https://github.com/doncarmone/npm-product-card",
   "jest": {
     "moduleNameMapper": {
       "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "identity-obj-proxy",
@@ -88,6 +88,7 @@
     "react",
     "component",
     "product",
-    "card"
+    "card",
+    "doncarmone"
   ]
 }

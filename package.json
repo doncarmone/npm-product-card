@@ -34,16 +34,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "flp-product-card",
-  "author": "flpmcruz",
-  "module": "dist/flp-product-card.esm.js",
+  "name": "jcg-product-card",
+  "author": "doncarmone",
+  "module": "dist/jcg-product-card.esm.js",
   "size-limit": [
     {
-      "path": "dist/flp-product-card.cjs.production.min.js",
+      "path": "dist/jcg-product-card.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/flp-product-card.esm.js",
+      "path": "dist/jcg-product-card.esm.js",
       "limit": "10 KB"
     }
   ],
@@ -74,10 +74,10 @@
     "react-test-renderer": "^18.2.0"
   },
   "repository": {
-    "url": "https://github.com/flpmcruz/npm-product-card-deploy.git",
+    "url": "https://github.com/jcgmcruz/npm-product-card-deploy.git",
     "type": "git"
   },
-  "homepage": "https://github.com/flpmcruz/npm-product-card-deploy.git",
+  "homepage": "https://github.com/jcgmcruz/npm-product-card-deploy.git",
   "jest": {
     "moduleNameMapper": {
       "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "identity-obj-proxy",

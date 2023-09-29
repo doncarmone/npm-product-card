@@ -1,4 +1,4 @@
-# FLP-Product-Card
+# jcg-Product-Card
 
 Este es un paquete de ejemplo de despliegue a NPM
 
@@ -7,7 +7,7 @@ Este es un paquete de ejemplo de despliegue a NPM
 # Ejemplo
 
 ```
-import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'flp-product-card'
+import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'jcg-product-card'
 ```
 
 ```
